@@ -1,0 +1,23 @@
+#root {
+  max-width: 100vw;
+  max-height: 100vh;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(179, 41, 0);
+  background: linear-gradient(90deg, rgba(179, 41, 0, 1) 7%, rgba(108, 19, 0, 1) 25%, rgba(51, 10, 4, 1) 56%, rgba(51, 10, 4, 1) 82%);
+}
+
+h1 {
+  font-size: 40px;
+  text-shadow: 10px 5px 5px #383535;
+}
